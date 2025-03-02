@@ -1,4 +1,4 @@
 # FTRN
 
-The code will be made public upon acceptance of the paper.
+The code is coming soon.
 
