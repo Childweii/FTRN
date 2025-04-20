@@ -1,4 +1,4 @@
 # FTRN
 
-The code is coming soon.
+Please contact Authors directly.
 
